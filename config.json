@@ -1,0 +1,6 @@
+{
+	"ip":"serveropenforall.aternos.me",
+	"port": "38212",
+	"name": "bot",
+	"auto-night-skip":"true"
+}
